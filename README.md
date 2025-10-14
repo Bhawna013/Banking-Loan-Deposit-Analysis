@@ -56,6 +56,8 @@ Created categorical segmentation of income into Low, Medium, and High tiers.
 
 <img width="732" height="86" alt="image" src="https://github.com/user-attachments/assets/96303617-80a7-4857-ac6f-2d401d4ad0fb" />
 
+<img width="560" height="450" alt="image" src="https://github.com/user-attachments/assets/5a39291b-412c-4664-b2dc-3e96e416c77f" />
+
 **Insight**
 High-income customers dominate, reinforcing Private Banking concentration.
 
@@ -93,7 +95,6 @@ Most clients are professionals in technical or structural roles, consistent with
 <img width="1146" height="208" alt="image" src="https://github.com/user-attachments/assets/60d91d20-ffee-497e-b1cb-bec64955ce44" />
 
 - Visualized histograms with sns.histplot(kde=True)
-
 - Identified skewness in loan and income distributions.
 
 
@@ -101,12 +102,12 @@ Most clients are professionals in technical or structural roles, consistent with
 
 <img width="1092" height="187" alt="image" src="https://github.com/user-attachments/assets/52709d31-32ae-4c16-bd4d-049446c42c9f" />
 
+<img width="1077" height="1154" alt="image" src="https://github.com/user-attachments/assets/c5b68be3-2150-4532-a6eb-02b73a0dabdf" />
+
 **Insight**
 
 - Strong positive correlation between Bank Deposits, Checking Accounts, and Saving Accounts.
-
 - Business Lending and Bank Loans moderately correlated, indicating potential overlap in loan exposure.
-
 - Credit Card Balance weakly correlated with total lending — suggests separate risk profile.
 
 # POWER BI DASHBOARD ANALYSIS
