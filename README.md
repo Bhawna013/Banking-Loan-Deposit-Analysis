@@ -124,10 +124,6 @@ Total Loan = SUM(Banking[Bank Loans]) + SUM(Banking[Business Lending]) + SUM(Ban
 Total Fees = SUMX(Banking, Banking[Total Loan] * Banking[Processing Fees])
 
 ---
-## Home Page
-
-<img width="1105" height="592" alt="image" src="https://github.com/user-attachments/assets/420f96a4-eda7-46ac-9abc-b3b063a5c61a" />
-
 ## 1. Deposit Analysis
 
 ### Overview
@@ -178,11 +174,6 @@ Private Banks again lead in total lending, mirroring deposit concentration.
 Lending portfolio is strong and concentrated in high-value segments, ensuring quality but reducing diversification. Expanding into medium- and low-income demographics can increase volume and market spread without heavily increasing credit risk.
 
 <img width="1120" height="628" alt="image" src="https://github.com/user-attachments/assets/1d430448-6604-4000-81fb-dc7dd737871d" />
-
----
-## Summary Dashboard
-
-<img width="1118" height="628" alt="image" src="https://github.com/user-attachments/assets/141ede67-8f8b-425e-91bb-2d53ecbbc115" />
 
 ---
 ## Strategic Outlook
